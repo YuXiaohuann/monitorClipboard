@@ -1,0 +1,1 @@
+pyinstaller -F -p .\venv\Lib\site-packages .\monitorClipboard.py
